@@ -1,6 +1,7 @@
 
-
-| Lp. | Ikona | Nazwa |
+Hi, those are various icons that I made some months ago, some are unfinished/duplicated  
+[Download all icons (.zip)](all%20obsidian%20icons.zip)
+| no. | icon | name |
 | :--- | :---: | :--- |
 | 1 | <img src='icons/1.4.1.png' width='60'> | 1.4.1.png |
 | 3 | <img src='icons/biale2.1.png' width='60'> | biale2.1.png |
