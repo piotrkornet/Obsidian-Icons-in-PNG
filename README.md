@@ -1,6 +1,7 @@
 
-Hi, those are various icons that I made some months ago, some are unfinished/duplicated  
-[Download all icons (.zip)](all%20obsidian%20icons.zip)
+Hi!
+Those are various icons that I made some months ago, some are unfinished/duplicated.
+[Download all icons (.zip)](all%20obsidian%20icons.zip) (click this link and select "download RAW file" to download zip with all icons).
 | no. | icon | name |
 | :--- | :---: | :--- |
 | 1 | <img src='icons/1.4.1.png' width='60'> | 1.4.1.png |
