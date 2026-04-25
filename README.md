@@ -1,5 +1,3 @@
-# Obsidian-Icons-in-PNG
-Some icons for Obsidianthat I created some time ago, some are not finished/strange;). 
 | Ikona | Nazwa |
 | :---: | :--- |
 | <img src='1.4.1.png' width='30'> | 1.4.1.png |
