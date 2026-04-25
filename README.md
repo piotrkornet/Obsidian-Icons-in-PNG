@@ -3,7 +3,6 @@
 | Lp. | Ikona | Nazwa |
 | :--- | :---: | :--- |
 | 1 | <img src='icons/1.4.1.png' width='60'> | 1.4.1.png |
-| 2 | <img src='icons/2023-06-logo-reductions.png' width='60'> | 2023-06-logo-reductions.png |
 | 3 | <img src='icons/biale2.1.png' width='60'> | biale2.1.png |
 | 5 | <img src='icons/białe1.10.png' width='60'> | białe1.10.png |
 | 6 | <img src='icons/białe1.11.png' width='60'> | białe1.11.png |
