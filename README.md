@@ -1,18 +1,13 @@
+
+
 | Lp. | Ikona | Nazwa |
 | :--- | :---: | :--- |
 | 1 | <img src='icons/1.4.1.png' width='60'> | 1.4.1.png |
 | 2 | <img src='icons/2023-06-logo-reductions.png' width='60'> | 2023-06-logo-reductions.png |
 | 3 | <img src='icons/biale2.1.png' width='60'> | biale2.1.png |
-| 4 | <img src='icons/biale2.2.png' width='60'> | biale2.2.png |
 | 5 | <img src='icons/białe1.10.png' width='60'> | białe1.10.png |
 | 6 | <img src='icons/białe1.11.png' width='60'> | białe1.11.png |
 | 7 | <img src='icons/białe1.12.png' width='60'> | białe1.12.png |
-| 8 | <img src='icons/białe1.13.png' width='60'> | białe1.13.png |
-| 9 | <img src='icons/białe1.14.png' width='60'> | białe1.14.png |
-| 10 | <img src='icons/białe1.15.png' width='60'> | białe1.15.png |
-| 11 | <img src='icons/białe1.16.png' width='60'> | białe1.16.png |
-| 12 | <img src='icons/białe1.17.png' width='60'> | białe1.17.png |
-| 13 | <img src='icons/białe1.18.png' width='60'> | białe1.18.png |
 | 14 | <img src='icons/białe1.1.png' width='60'> | białe1.1.png |
 | 15 | <img src='icons/białe1.2.png' width='60'> | białe1.2.png |
 | 16 | <img src='icons/białe1.3.png' width='60'> | białe1.3.png |
@@ -22,14 +17,8 @@
 | 20 | <img src='icons/białe1.7.png' width='60'> | białe1.7.png |
 | 21 | <img src='icons/białe1.8.png' width='60'> | białe1.8.png |
 | 22 | <img src='icons/białe1.9.png' width='60'> | białe1.9.png |
-| 23 | <img src='icons/białe1.png' width='60'> | białe1.png |
-| 24 | <img src='icons/ciemnoczerwony przezroczysty.png' width='60'> | ciemnoczerwony przezroczysty.png |
-| 25 | <img src='icons/czarno biały.png' width='60'> | czarno biały.png |
-| 26 | <img src='icons/czarno przezroczysty.png' width='60'> | czarno przezroczysty.png |
 | 27 | <img src='icons/limonka krawędzie1.png' width='60'> | limonka krawędzie1.png |
 | 28 | <img src='icons/limonka przez3.png' width='60'> | limonka przez3.png |
-| 29 | <img src='icons/limonka przez85.png' width='60'> | limonka przez85.png |
-| 30 | <img src='icons/limonka przez.png' width='60'> | limonka przez.png |
 | 31 | <img src='icons/niebieski przezroczysty1.png' width='60'> | niebieski przezroczysty1.png |
 | 32 | <img src='icons/obsczarny1.png' width='60'> | obsczarny1.png |
 | 33 | <img src='icons/Obsidian 1.1 test gimp1.png' width='60'> | Obsidian 1.1 test gimp1.png |
@@ -68,11 +57,6 @@
 | 66 | <img src='icons/plaski7.png' width='60'> | plaski7.png |
 | 67 | <img src='icons/plaski8.png' width='60'> | plaski8.png |
 | 68 | <img src='icons/plaski9.png' width='60'> | plaski9.png |
-| 69 | <img src='icons/red black.png' width='60'> | red black.png |
-| 70 | <img src='icons/red white.png' width='60'> | red white.png |
-| 71 | <img src='icons/red1.png' width='60'> | red1.png |
-| 72 | <img src='icons/retro bw1.png' width='60'> | retro bw1.png |
-| 73 | <img src='icons/retro bw2.png' width='60'> | retro bw2.png |
 | 74 | <img src='icons/teal odwrócony1.1.1.png' width='60'> | teal odwrócony1.1.1.png |
 | 75 | <img src='icons/teal odwrócony1.1.2.png' width='60'> | teal odwrócony1.1.2.png |
 | 76 | <img src='icons/teal odwrócony1.1.3.png' width='60'> | teal odwrócony1.1.3.png |
@@ -94,4 +78,3 @@
 | 92 | <img src='icons/teal odwrócony1.3.1-3.png' width='60'> | teal odwrócony1.3.1-3.png |
 | 93 | <img src='icons/teal odwrócony1.3.1.png' width='60'> | teal odwrócony1.3.1.png |
 | 94 | <img src='icons/teal odwrócony1.png' width='60'> | teal odwrócony1.png |
-| 95 | <img src='icons/logo teal obsidian.jpg' width='60'> | logo teal obsidian.jpg |
